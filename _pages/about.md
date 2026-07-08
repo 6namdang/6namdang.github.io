@@ -6,7 +6,7 @@ subtitle: Research Engineer at <a href='https://www.csail.mit.edu/'>MIT CSAIL</a
 
 profile:
   align: right
-  image: # add prof_pic.jpg to assets/img/
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>MIT CSAIL</p>
