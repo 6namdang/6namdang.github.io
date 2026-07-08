@@ -1,23 +1,26 @@
 cv:
   name: Hoang Nam Dang
-  label: Research Engineer · MIT CSAIL
+  headline: Research Engineer, MIT CSAIL
   email: hnd@mit.edu
   phone: "+1-515-694-8353"
   location: Cambridge, MA
   website: https://6namdang.github.io
-  image: ""
-  summary: >
-    Research engineer at MIT CSAIL (MANTIS AI) focused on AI for Science — integrating vision-language models,
-    spatial transcriptomics, and interpretable machine learning for biology and healthcare. Background in computer
-    vision, network security, additive manufacturing, and efficient LLM training.
 
   social_networks:
     - network: GitHub
       username: 6namdang
     - network: LinkedIn
       username: dang004
+    - network: Google Scholar
+      username: SQNsJEAAAAAJ
+    - network: ORCID
+      username: 0009-0008-9267-493X
 
   sections:
+    Summary:
+      - Research engineer at MIT CSAIL (MANTIS AI) focused on AI for Science, integrating vision-language models,
+        spatial transcriptomics, and interpretable machine learning for biology and healthcare.
+
     Education:
       - institution: Gannon University
         area: Computer Science
@@ -152,7 +155,7 @@ cv:
           - Implementing human-in-the-loop validation to meet ethical AI standards for hiring
 
       - name: Heuristic Encoding Problem in GPT-2
-        start_date: present
+        start_date: 2025-09
         end_date: present
         summary: Collaboration with Prof. Gustavo Sandoval · NYU Courant
         highlights:

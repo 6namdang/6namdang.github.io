@@ -3,7 +3,4 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos:
-  - 6namdang/ironCondor
-  - 6namdang/LivesInErie
-  - 6namdang/LLM-From-Scratch
+github_repos: []
