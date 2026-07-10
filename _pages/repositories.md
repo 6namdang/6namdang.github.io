@@ -24,3 +24,10 @@ nav_order: 4
 {% endif %}
 
 {% endif %}
+
+---
+
+{% include figure.liquid loading="lazy" path="assets/img/kellis-lab-summer-2026.jpg" title="MIT Kellis Lab, RSI Students, and MANTIS AI — Summer 2026" class="img-fluid rounded z-depth-1" %}
+<div class="caption">
+  Kellis Lab + RSI students + MANTIS AI, Summer 2026.
+</div>
