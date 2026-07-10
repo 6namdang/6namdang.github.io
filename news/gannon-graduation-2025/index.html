@@ -70,7 +70,12 @@ ninja.data = [{
           section: "News",},{id: "news-joined-mit-csail-as-a-research-engineer-on-mantis-ai-with-prof-manolis-kellis-working-on-vision-language-models-for-alzheimer-39-s-disease",
           title: 'Joined **MIT CSAIL** as a Research Engineer on **MANTIS AI** with Prof. Manolis...',
           description: "",
-          section: "News",},{id: "projects-cognitive-load-measurement",
+          section: "News",},{id: "news-kellis-lab-mantis-ai-summer-2026",
+          title: 'Kellis Lab + MANTIS AI, Summer 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/kellis-lab-summer-2026/";
+            },},{id: "projects-cognitive-load-measurement",
           title: 'Cognitive Load Measurement',
           description: "Bias-aware candidate assessment with vision-language models, sponsored by Lockheed Martin.",
           section: "Projects",handler: () => {
@@ -80,6 +85,11 @@ ninja.data = [{
           description: "Mechanistic interpretability study of numeric comparison failures in GPT-2, with Prof. Gustavo Sandoval (NYU Courant).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gpt2-heuristic-encoding/";
+            },},{id: "projects-mantis-ai",
+          title: 'MANTIS AI',
+          description: "Vision-language models for spatial transcriptomics and Alzheimer&#39;s disease at MIT Kellis Lab.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mantis-ai/";
             },},{
         id: 'social-cv',
         title: 'CV',
