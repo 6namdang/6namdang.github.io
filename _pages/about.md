@@ -19,16 +19,14 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 3
 
 latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+  enabled: false
 ---
 
-I am a research engineer at MIT CSAIL working on **MANTIS AI** with Prof. Manolis Kellis, where I build vision-language models that integrate spatial transcriptomics with single-cell data to study selective vulnerability in Alzheimer's disease.
+> I think it was never about the ideas or achievements, but the people and the community. Having a strong team with good and kind people always win.
 
-My research sits at the intersection of **machine learning, computer vision, biology, additive manufacturing, and security**. I am especially interested in **AI for Science (AI4S)** — developing safe, interpretable systems aligned with human goals. Previously, I earned a B.S. in Computer Science from Gannon University (GPA 4.0/4.0) and was awarded the J.J. Duratz Research Award in 2025.
+Research engineer at **MIT CSAIL** on **MANTIS AI** with Prof. Manolis Kellis — vision-language models for spatial transcriptomics and Alzheimer's disease.
 
-Beyond research, I have led engineering teams at startups including PanHealth Inc and Lodging Connections LLC, building full-stack applications, automation pipelines, and clinical tools for Alzheimer's patients.
+I work on **AI for Science**: machine learning, computer vision, and interpretable models for biology and healthcare. B.S. in Computer Science from Gannon University (4.0 GPA).

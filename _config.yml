@@ -9,7 +9,7 @@ last_name: Dang
 contact_note: >
   The best way to reach me is by email at hnd@mit.edu.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research engineer at MIT CSAIL working on AI for Science — machine learning, computer vision, and interpretable models for biology and healthcare.
+  Research engineer at MIT CSAIL. AI for Science.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -59,7 +59,7 @@ al_folio:
     allow_remote_loader: true
   features:
     cv:
-      enabled: false
+      enabled: true
     distill:
       enabled: true
   compat:
