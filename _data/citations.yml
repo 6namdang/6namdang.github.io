@@ -1,22 +1,14 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-17'
 papers:
   SQNsJEAAAAAJ:BqipwSGYUEgC:
-    citations: 0
+    citations: 1
     title: 'Towards a Serverless Intelligent Firewall: AI-Driven Security, and Zero-Trust Architectures'
     year: '2025'
-  SQNsJEAAAAAJ:GnPB-g6toBAC:
-    citations: 0
-    title: Multi-Turn Jailbreaking Multi-Modal Large Language Models via Cross-Model Theory-of-Mind Forecasting
-    year: '2026'
   SQNsJEAAAAAJ:NaGl4SEjCO4C:
     citations: 0
     title: Hemispheric Asymmetry Features and Interpretable Machine Learning for Focal Cortical Dysplasia Classification in Drug-Resistant Epilepsy
     year: '2026'
-  SQNsJEAAAAAJ:O3NaXMp0MMsC:
-    citations: 0
-    title: 'Predictive Modeling of Student Transfer Intentions: A Comprehensive Machine Learning Approach with Novel Feature Selection Methodology'
-    year: '2025'
   SQNsJEAAAAAJ:RGFaLdJalmkC:
     citations: 0
     title: "A Machine Learning QSAR Model for Predicting hTERT Telomerase Inhibitor Potency: ChEMBL Dataset Curation, Algorithm Benchmarking, and Prospective Application to Natural and \u2026"
