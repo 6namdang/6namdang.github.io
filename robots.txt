@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://6namdang.github.io/sitemap.xml
